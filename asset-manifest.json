@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lekhit.github.io/csb-onomi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lekhit.github.io/csb-onomi/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://lekhit.github.io/csb-onomi/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://lekhit.github.io/csb-onomi/static/js/runtime-main.26a9b8dd.js",
+    "runtime-main.js.map": "https://lekhit.github.io/csb-onomi/static/js/runtime-main.26a9b8dd.js.map",
+    "static/js/2.6487861b.chunk.js": "https://lekhit.github.io/csb-onomi/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://lekhit.github.io/csb-onomi/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://lekhit.github.io/csb-onomi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lekhit.github.io/csb-onomi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://lekhit.github.io/csb-onomi/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a9b8dd.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
